@@ -6,7 +6,7 @@ This is my tutorial about how to use Keras to construct a CNN model for digit re
 
 Please head to [My Website](wayinone.github.io) for better description.
 
-The website convert the jupyter notebook to markdown using:
+The webpage is converted from the jupyter notebook in this repository to markdown using the following command:
 
 ```
 jupyter nbconvert --to markdown My_MNIST_note_CNN_Keras
